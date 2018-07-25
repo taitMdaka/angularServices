@@ -1,0 +1,136 @@
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\ApplicationInsights.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\csc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\vbc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\demo.dll.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.Web.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.Web.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\obj\Debug\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\demo\demo\obj\Debug\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\ApplicationInsights.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\csc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\vbc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\demo.dll.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.Web.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.Web.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\obj\Debug\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\obj\Debug\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\ApplicationInsights.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\csc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\vbc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\demo.dll.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.Web.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.Web.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\obj\Debug\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\vinked\vinked\Not working Routing\demo\demo\obj\Debug\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\ApplicationInsights.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\csc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\vbc.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\demo.dll.config
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.Web.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.Web.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\obj\Debug\demo.csproj.CopyComplete
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\obj\Debug\demo.dll
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\obj\Debug\demo.pdb
+C:\Users\tait.mdaka\Desktop\Vinked Angular js\Routing25th\demo\obj\Debug\demo.csprojAssemblyReference.cache
